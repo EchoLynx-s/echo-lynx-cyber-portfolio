@@ -9,17 +9,20 @@ I document my learning journey through structured notes, TryHackMe walkthroughs,
 ---
 
 ## Quick links
-- **YouTube – TryHackMe & Cybersecurity walkthroughs**  
-  [https://www.youtube.com/EchoLynx](https://www.youtube.com/channel/UCBMxYSiYmjujRFleJdwnawQ)
+
+ **YouTube – TryHackMe & Cybersecurity walkthroughs**  
+  - [https://www.youtube.com/EchoLynx](https://www.youtube.com/channel/UCBMxYSiYmjujRFleJdwnawQ)
+  
 ---
--  **Learning trackers in Notion**  
-  - [TryHackMe – Pre Security Path](https://tremendous-radium-f93.notion.site/298bdbd06cba80508b5df432a6f2e2d1?v=298bdbd06cba81a8a46c000c8b4c695a&pvs=74)
+
+  **Learning trackers in Notion** 
+ - [TryHackMe – Pre Security Path](https://tremendous-radium-f93.notion.site/298bdbd06cba80508b5df432a6f2e2d1?v=298bdbd06cba81a8a46c000c8b4c695a&pvs=74)
   - TryHackMe -Cyber Security 101 
   - TryHackMe - Web Fundamentalsc
   - TryHackMe - Jr Pen Tester 
   - TryHackMe - Junior Penetration Tester (PT1)
 ---
--  **Hands-on labs & write-ups (this GitHub account)**  
+ **Hands-on labs & write-ups (this GitHub account)**  
   - THM room cheat-sheets (per-room repos)
   - CCNA notes
   - Other tools and experiments
@@ -28,7 +31,7 @@ I document my learning journey through structured notes, TryHackMe walkthroughs,
 
 ## What I’m focusing on right now
 
-- Building a **solid foundation** in networking & security (CCNA + TryHackMe Pre Security).
+- Building a **solid foundation** in networking & security.
 - Practising **offensive techniques safely** using guided labs.
 - Turning lab work into **clean notes, GitHub write-ups, and YouTube content**.
 
@@ -38,21 +41,21 @@ I document my learning journey through structured notes, TryHackMe walkthroughs,
 
 I use a very simple rule:
 
-- **1 repo per TryHackMe room or video**, tracked in Notion.
-- **1 repo (or small set of repos) per bigger course/path** like CCNA.
+- **1 repo per TryHackMe room/video**, tracked in Notion.
+- **1 repo Module** like CCNA.
 
 This portfolio repo is just the **home page** that links you to everything.
 
 ---
 
-## 📚 Learning paths & notes
+## Learning paths & notes
 
 ### 1. TryHackMe – Pre Security Path
 
 Beginner-friendly path that covers the absolute basics needed to start in cyber security.
 
 - ✅ **Overview & tracker:** Notion board  
-  <Pre Security Notion link>
+  [<Pre Security Notion link>](https://tremendous-radium-f93.notion.site/298bdbd06cba80508b5df432a6f2e2d1?v=298bdbd06cba81a8a46c000c8b4c695a)
 
 - ✅ **Room cheat-sheets & write-ups (GitHub)**  
   Each room has its own repo, for example:
