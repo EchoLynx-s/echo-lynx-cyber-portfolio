@@ -9,25 +9,22 @@ I document my learning journey through structured notes, TryHackMe walkthroughs,
 ---
 
 ## Quick links
-
--  **YouTube – TryHackMe & Cybersecurity walkthroughs**  
+ **YouTube – TryHackMe & Cybersecurity walkthroughs**  
   [https://www.youtube.com/EchoLynx](https://www.youtube.com/channel/UCBMxYSiYmjujRFleJdwnawQ)
-
--  **Learning trackers in Notion**  
+-
+  **Learning trackers in Notion**  
   - [TryHackMe – Pre Security Path](https://tremendous-radium-f93.notion.site/298bdbd06cba80508b5df432a6f2e2d1?v=298bdbd06cba81a8a46c000c8b4c695a&pvs=74)
   - TryHackMe -Cyber Security 101 
   - TryHackMe - Web Fundamentalsc
   - TryHackMe - Jr Pen Tester 
   - TryHackMe - Junior Penetration Tester (PT1)
-
-
-
--  **Hands-on labs & write-ups (this GitHub account)**  
+-
+  **Hands-on labs & write-ups (this GitHub account)**  
   - THM room cheat-sheets (per-room repos)
   - CCNA notes
   - Other tools and experiments
+-
 
----
 
 ## What I’m focusing on right now
 
